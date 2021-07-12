@@ -29,17 +29,6 @@
             app:layout_behavior="com.github.heyalex.cornersheet.behavior.CornerSheetHeaderBehavior"
             app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.CornerShape" />
 
-        <androidx.appcompat.widget.AppCompatImageView
-            android:id="@+id/iv_playstory_menu_corner_animation"
-            android:layout_width="48dp"
-            android:layout_height="48dp"
-            android:alpha="0"
-            android:paddingTop="12dp"
-            android:paddingLeft="12dp"
-            android:src="@drawable/ic_info"
-            android:background="@color/turquoise"
-            android:layout_gravity="bottom|right"
-            tools:alpha="0"/>
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 

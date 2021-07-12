@@ -1,0 +1,4 @@
+rootProject.name = "TestCorner"
+include ':app'
+include ':drawer'
+include ':core'

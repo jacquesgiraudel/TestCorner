@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.CornerShape" parent="">
+        <item name="cornerSizeTopLeft">30dp</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+
+</resources>
